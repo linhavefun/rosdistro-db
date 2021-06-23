@@ -40,3 +40,7 @@ graphicsmagick:
   windows:
     vcpkg:
       packages: [graphicsmagick]
+urg_c:
+    windows:
+      vcpkg:
+        packages: [urg_c]
