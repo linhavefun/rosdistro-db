@@ -43,8 +43,8 @@ graphicsmagick:
 urg_c:
     windows:
       vcpkg:
-        packages: [urg]
+        packages: [urg_c]
 laser_proc:
     windows:
       vcpkg:
-        packages: [laser-proc]
+        packages: [laser_proc]
